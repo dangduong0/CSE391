@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.logo{
+    width: 200px;
+}
+
+nav{
+    background-color: burlywood;
+}
+
+nav ul{
+    background-color: pink;
+    display: flex;
+    list-style: none;
+}
